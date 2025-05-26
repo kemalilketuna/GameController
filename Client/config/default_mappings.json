@@ -1,0 +1,19 @@
+{
+  "name": "Default Controller Mapping",
+  "key_mappings": {
+    "button1": "space",
+    "button2": "x",
+    "button3": "z",
+    "button4": "c",
+    "button5": "l",
+    "button6": "r",
+    "joystick1_up": "w",
+    "joystick1_down": "s",
+    "joystick1_left": "a",
+    "joystick1_right": "d",
+    "joystick2_up": "up",
+    "joystick2_down": "down",
+    "joystick2_left": "left",
+    "joystick2_right": "right"
+  }
+} 

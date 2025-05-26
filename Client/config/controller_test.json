@@ -1,0 +1,18 @@
+{
+  "id": "test",
+  "name": "Controller test",
+  "key_mappings": {
+    "button1": "z",
+    "button2": "s",
+    "button3": "d",
+    "button4": "f",
+    "joystick1_up": "",
+    "joystick1_down": "",
+    "joystick1_left": "",
+    "joystick1_right": "",
+    "joystick2_up": "",
+    "joystick2_down": "",
+    "joystick2_left": "",
+    "joystick2_right": ""
+  }
+}
